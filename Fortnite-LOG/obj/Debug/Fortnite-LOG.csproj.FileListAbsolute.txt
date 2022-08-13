@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Fortnite-LOG\Fortnite-LOG\obj\Debug\Fortnite-LOG.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Fortnite-LOG\Fortnite-LOG\obj\Debug\Fortnite-LOG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fortnite-LOG\Fortnite-LOG\bin\Debug\Fortnite-LOG.dll
+C:\Users\User\source\repos\Fortnite-LOG\Fortnite-LOG\bin\Debug\Fortnite-LOG.pdb
+C:\Users\User\source\repos\Fortnite-LOG\Fortnite-LOG\obj\Debug\Fortnite-LOG.dll
+C:\Users\User\source\repos\Fortnite-LOG\Fortnite-LOG\obj\Debug\Fortnite-LOG.pdb
